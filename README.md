@@ -1,4 +1,4 @@
-# Denoising-Diffusion-Probabilistic-Models-DDPM
+# Denoising Diffusion Probabilistic Models (DDPM)
 
 This project was completed as part of the IOE 691 course at the University of Michigan, Ann Arbor, focusing on Bayesian Data Analytics. The primary objective was to explore and implement Denoising Diffusion Probabilistic Models (DDPM) based on the research paper titled "Denoising Diffusion Probabilistic Models" authored by Jonathan Ho and Ajay Jain from UC Berkeley. The project aimed to understand and apply the principles and methodologies proposed in this paper to address various data analytics challenges.
 
